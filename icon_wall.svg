@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="0 0 2000 2000">
+  <image href="icon_PhpStorm.svg" x="0" y="0" width="256" height="256" />
+  <image href="icon_IntelliJIDEA.svg" x="266" y="0" width="256" height="256" />
+  <image href="icon_MPS.svg" x="532" y="0" width="256" height="256" />
+  <image href="icon_RubyMine.svg" x="798" y="0" width="256" height="256" />
+  <image href="icon_CLion.svg" x="1064" y="0" width="256" height="256" />
+  <image href="icon_WebStorm.svg" x="0" y="266" width="256" height="256" />
+  <image href="icon_AppCode.svg" x="266" y="266" width="256" height="256" />
+  <image href="icon_YouTrack.svg" x="532" y="266" width="256" height="256" />
+  <image href="icon_TeamCity.svg" x="798" y="266" width="256" height="256" />
+  <image href="icon_Upsource.svg" x="1064" y="266" width="256" height="256" />
+  <image href="icon_Hub.svg" x="0" y="532" width="256" height="256" />
+  <image href="icon_ReSharper.svg" x="266" y="532" width="256" height="256" />
+  <image href="icon_ReSharperC++.svg" x="532" y="532" width="256" height="256" />
+  <image href="icon_dotTrace.svg" x="798" y="532" width="256" height="256" />
+  <image href="icon_dotMemory.svg" x="1064" y="532" width="256" height="256" />
+  <image href="icon_dotCover.svg" x="0" y="798" width="256" height="256" />
+  <image href="icon_dotPeek.svg" x="266" y="798" width="256" height="256" />
+  <image href="icon_DataGrip.svg" x="532" y="798" width="256" height="256" />
+  <image href="icon_PyCharm.svg" x="798" y="798" width="256" height="256" />
+  <image href="icon_Kotlin.svg" x="1064" y="798" width="256" height="256" />
+</svg>
