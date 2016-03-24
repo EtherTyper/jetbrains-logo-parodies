@@ -1,9 +1,9 @@
 # JetBrains Logo Parodies
 
-I was having fun marking my initials on all of the JetBrains logos, just in case I had the opportunity to source build any of them!
+I was having fun marking my initials on all of the JetBrains IDEs, just in case I had the opportunity to build any of them from source! I hope you like the results, especially R++, Kotlin, and MPS, which I designed specifically!
 
 ![](icon_wall.svg)
-###### If the logos don't appear inline, go [here](https://raw.githubusercontent.com/ethertyper/jetbrains-logo-parodies/master/icon_wall.svg) to view the raw image.
+###### If the logos don't appear inline, go [here](https://ethertyper.github.io/jetbrains-logo-parodies/icon_wall.svg) to view the raw image.
 
 I acknowledge that my usage of the JetBrains logos does not constitute association or sponsorship with JetBrains, however cool that might be. Also, I claim fair use according to Section 107 of the Copyright Act for any unspoken copyrights attached to the original images, available at the [JetBrains Press Room](https://jetbrains.com/company/press/). These parody logos are just for fun, obeying the major laws stated in the original ```README.txt``` file, with  of the press materials!
 
